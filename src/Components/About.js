@@ -4,7 +4,7 @@ class About extends Component {
   render() {
 
     if(this.props.data){
-      var name = this.props.data.name;
+      // var name = this.props.data.name;
       //var profilepic= "images/"+this.props.data.image;
       var bio = this.props.data.bio;
       var about = this.props.data.aboutme;
@@ -14,7 +14,7 @@ class About extends Component {
       // var zip = this.props.data.address.zip;
       // var phone= this.props.data.phone;
       // var email = this.props.data.email;
-      var resumeDownload = this.props.data.resumedownload;
+      // var resumeDownload = this.props.data.resumedownload;
     }
 
     return (

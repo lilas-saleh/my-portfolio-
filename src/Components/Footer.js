@@ -4,7 +4,7 @@ class Footer extends Component {
   render() {
 
     if(this.props.data){
-      var email = this.props.data.email;
+      // var email = this.props.data.email;
       var networks= this.props.data.social.map(function(network){
         return <li key={network.name}><a target="_blank" href={network.url}><i className={network.className}></i></a></li>
       })

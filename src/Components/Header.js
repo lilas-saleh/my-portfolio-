@@ -9,7 +9,7 @@ class Header extends Component {
       var moto2= this.props.data.moto2;
       var moto3= this.props.data.moto3;
       var moto4= this.props.data.moto4;
-      var city= this.props.data.address.city;
+      // var city= this.props.data.address.city;
       var networks= this.props.data.social.map(function(network){
         return <li key={network.name}><a target="_blank" href={network.url}><i className={network.className}></i></a></li>
       })
