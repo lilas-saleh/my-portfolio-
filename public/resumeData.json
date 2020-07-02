@@ -1,0 +1,174 @@
+{
+  "main": {
+    "name":"{Lilas Saleh}",
+    "moto1":"Code.",
+    "moto2":"Create.",
+    "moto3":"Impact.",
+    "moto4":"#WomenInTech",
+    "image":"profilepic.jpg",
+    "aboutme":"<h1> About Me </h1>",
+    "bio":
+    "<p> Hey! I'm Lilas Saleh, Biomedical Engineer, and Front-End Developer based in Istanbul, Turkey. I love turning my ideas into reality. </p>",
+    "contact1": "<h1> Get In Touch! </h1>",
+    "contact2": "<p> Whether you want to get in touch, talk about a project collaboration, or just say hi, I'd love to hear from you. Feel free to reach me out via email or social media! </p>",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "contact3":"<h1> My Email </h1>",
+    "email": "<p> lilas.ahmad.saleh@gmail.com </p>",
+    "phone": "555-555-5555",
+    "address":{
+      "street":"(Your Street)",
+      "city":"Istanbul, Turkey.",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "",
+    "resumedownload":"https://drive.google.com/file/d/1vwsJerJP7PSFOuYg5povMIRCyRTtN9o6/view",
+    "social":[
+      {
+      "name":"github",
+      "url":"http://github.com/lilas-saleh",
+      "className":"fa fa-github"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/lilas-ahmad-saleh/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/lilas.saleh/",
+        "className":"fa fa-instagram"
+      }
+    ]
+  },
+  "resume":{
+    "resumedownload":"https://drive.google.com/file/d/1vwsJerJP7PSFOuYg5povMIRCyRTtN9o6/view",
+    "education":[
+      {
+        "school":"Yeditepe University",
+        "degree":"B.S. in Biomedical Engineering",
+        "graduated":"2020"
+      },
+      {
+        "school":"Re:Coded Istanbul | Flatiron School ",
+        "degree":"Front-End Web Development",
+        "graduated":"2020"
+      }
+    ],
+    "work":[
+      {
+        "company":"Scientific and Technological Research Council of Turkey (Tübitak)",
+        "title":"Biomedical Engineer Intern",
+        "years":"2019"
+      },
+      {
+        "company":"WIE - Yeditepe University",
+        "title":"Sponsorship Coordinator",
+        "years":"2018 - 2019"
+      },
+      {
+        "company":"Tebessüm Çetesi - Üsküdar Youth Center",
+        "title":"Volunteer",
+        "years":"2018 - 2019"
+      },
+      {
+        "company":"ONSUR - International Association for Relief and Development",
+        "title":"Project Manager and Volunteer",
+        "years":"2018"
+      },
+      {
+        "company":"IEEE and EMBS - Yeditepe University",
+        "title":"Active Member",
+        "years":"2016 - 2019"
+      },
+      {
+        "company":"This is My Life Volunteering Team - Istanbul",
+        "title":"Volunteer",
+        "years":"2016 - 2019"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Adobe Photoshop",
+        "level":"75%"
+      },
+      {
+        "name":"Adobe Illustrator",
+        "level":"75%"
+      },
+      {
+        "name":"Autocad",
+        "level":"60%"
+      },
+      {
+        "name":"Javascript",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"80%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML",
+        "level":"90%"
+      },      {
+        "name":"Firebase",
+        "level":"60%"
+      },
+      {
+        "name":"GIT",
+        "level":"70%"
+      },
+      {
+        "name":"Turkish Language",
+        "level":"80%"
+      },
+      {
+        "name":"English Language",
+        "level":"95%"
+      },
+      {
+        "name":"Arabic Language",
+        "level":"100%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Mad Libs Game",
+        "category":"My first project as I was learning Javascript, CSS, and HTML.",
+        "image":"madlibs.png",
+        "url":"https://lilas-saleh.github.io/MadLibs/"
+      },
+      {
+        "title":"IMDb Movie Project",
+        "category":"IMDb clone project done using Javascript, HTML, and CSS.",
+        "image":"movieIMDb.png",
+        "url":"https://lilas-saleh.github.io/IMDb-Movie-Project/"
+      },
+      {
+        "title":"Cookbook Recipe App",
+        "category":"A recipe notepad app done using Firebase, ReactJs, HTML, CSS, and Material UI.",
+        "image":"cookbook.png",
+        "url":"https://createyourcookbook.netlify.app/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
